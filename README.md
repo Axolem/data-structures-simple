@@ -1,15 +1,35 @@
-# linked-list
+# Data Structures Simple
 
-To install dependencies:
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Language](https://img.shields.io/github/languages/top/Axolem/data-structures-simple)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Axolem/data-structures-simple)
+![Branches](https://img.shields.io/badge/branches-97.54%25-brightgreen.svg?style=flat)
+![npm](https://aleen42.github.io/badges/src/npm.svg)
+
+
+## Installation and Usage
+
+### npm
 
 ```bash
-bun install
+npm i data-structures-simple
 ```
 
-To run:
+### yarn
 
 ```bash
-bun run index.ts
+yarn add data-structures-simple
 ```
 
-This project was created using `bun init` in bun v1.0.3. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+### bun
+
+```bash
+bun add data-structures-simple
+```
+
+## ToDo
+
+- [ ] Add more methoths in the Linked-List
+- [ ] Add Stack and many more 
+
+#### Please contribute :heart
