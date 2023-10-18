@@ -116,7 +116,7 @@ out
 
 .nuxt
 dist
-
+lib
 # Gatsby files
 
 .cache/
@@ -174,3 +174,4 @@ dist
 # Finder (MacOS) folder config
 .DS_Store
 
+./lib

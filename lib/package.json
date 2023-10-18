@@ -1,6 +1,6 @@
 {
     "name": "data-structures-simple",
-    "version": "0.0.4",
+    "version": "0.0.6",
     "description": "A bunch of data structures",
     "main": "index.js",
     "module": "index.js",

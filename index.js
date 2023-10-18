@@ -6,4 +6,4 @@ list.addLast(1);
 list.addLast(2);
 list.addLast(3);
 
-console.log(list.indexOf(2));
+console.log(list.indexOf(4));
