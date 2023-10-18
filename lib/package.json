@@ -1,0 +1,31 @@
+{
+    "name": "data-structures-simple",
+    "version": "0.0.4",
+    "description": "A bunch of data structures",
+    "main": "index.js",
+    "module": "index.js",
+    "type": "module",
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Axolem/data-structures-simple.git"
+    },
+    "author": "Axole Maranjana (https://github.com/Axolem/)",
+    "license": "MIT",
+    "publishConfig": {
+        "@axolema:registry": "https://npm.pkg.github.com"
+    },
+    "bugs": {
+        "url": "https://github.com/Axolem/data-structures-simple/issues"
+    },
+    "homepage": "https://github.com/Axolem/data-structures-simple#readme",
+    "keywords": [
+        "data",
+        "structure",
+        "structures",
+        "data structure",
+        "linked list",
+        "linkedlist",
+        "linked-list"
+    ]
+}

@@ -14,8 +14,8 @@
   },
   "scripts": {
     "build": "npm run build:es6 && npm run build:commonjs",
-    "build:es6": "rm -rf lib && tsc",
-    "build:commonjs": "rm -rf dist && tsc --project tsconfig.prod.json"
+    "build:es6": "tsc",
+    "build:commonjs": "tsc --project tsconfig.prod.json"
   },
   "contributors": [],
   "repository": {
