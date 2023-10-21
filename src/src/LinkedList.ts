@@ -206,7 +206,7 @@ class LinkedList<T> {
         const array: T[] = [];
         let current = this.head;
 
-        while (current !== null) {
+        while (current !== null && current !== undefined) {
             array.push(current.value);
             current = current.next!;
         }
