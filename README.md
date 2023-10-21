@@ -97,7 +97,7 @@ console.log(list.indexOf(4)); // -1
 ## Project Status (Todo)
 
 - [x] LinkedList
-- [ ] Stack
+- [x] Stack (Fixed / Dynamic)
 - [ ] Queue
 - [ ] HashTable
 - [ ] Heap
